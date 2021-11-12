@@ -9,9 +9,9 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 ![](/Pleione/preview.png)
 - Wallpaper [Here](https://unsplash.com/photos/iJWxOxFggpI)
 - Change orange letters by changing color1 value in Pleione.conf
-#### [Asterope](/[Asterope) theme
+#### [Asterope](/Asterope) theme
 
-![](/[Asterope/preview.png)
+![](/Asterope/preview.png)
 - in this theme i use audacious as music player
 
 ## Note :
