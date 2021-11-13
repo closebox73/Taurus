@@ -13,6 +13,9 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 
 ![](/Asterope/preview.png)
 - in this theme i use audacious as music player
+#### [Celaeno](/Celaeno) theme
+
+![](/Celaeno/preview.png)
 
 ## Note :
 - syntax configuration of this theme for conky version 1.10.8 or newer
