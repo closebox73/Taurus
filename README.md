@@ -16,6 +16,12 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 #### [Celaeno](/Celaeno) theme
 
 ![](/Celaeno/preview.png)
+---------------------------------------------------
+### Featured
+#### [Mesarthim](/Mesarthim) theme
+
+![](/Mesarthim/preview.png)
+-----------------------------------------------------
 
 ## Note :
 - syntax configuration of this theme for conky version 1.10.8 or newer
