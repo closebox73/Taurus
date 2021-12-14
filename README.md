@@ -16,6 +16,9 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 #### [Celaeno](/Celaeno) theme
 
 ![](/Celaeno/preview.png)
+#### [Electra](/Electra) theme
+
+![](/Electra/preview.png)
 ---------------------------------------------------
 ### Featured
 #### [Mesarthim](/Mesarthim) theme
