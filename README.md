@@ -32,7 +32,7 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 ## Note :
 - syntax configuration of this theme for conky version 1.10.8 or newer
 - the default folder for this theme is in ~/.config/conky if it doesn't exist please create one
-- For a while the music player I used was `mocp`
+- The music player I use is `mpd`
 - I currently use Openbox, sometimes for other DE requires a slightly different setting
 - All fonts i get from:
 	 - [Dafont](https://www.dafont.com)
