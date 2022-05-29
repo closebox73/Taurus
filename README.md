@@ -1,5 +1,10 @@
 ![greetings](/Asset/Taurus.png)
-
+<!-- BADGES -->
+<h1>
+  <a href="#--------">
+    <img alt="" align="right" src="https://badges.pufler.dev/visits/closebox73/Taurus?style=for-the-badge&color=162026&logoColor=white&labelColor=162026"/>
+  </a>
+</h1>
 A Conky themes pack which I made in hopes of beautifying your desktop 
 
 ## Showcase :
@@ -22,6 +27,9 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 #### [Electra](/Electra) theme
 
 ![](/Electra/preview.png)
+#### [Maia](/Maia) theme
+
+![](/Maia/preview.png)
 ---------------------------------------------------
 ### Featured
 #### [Mesarthim](/Mesarthim) theme
