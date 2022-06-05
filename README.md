@@ -2,7 +2,7 @@
 <!-- BADGES -->
 <h1>
   <a href="#--------">
-    <img alt="" align="right" src="https://badges.pufler.dev/visits/closebox73/Taurus?style=for-the-badge&color=162026&logoColor=white&labelColor=162026"/>
+    <img alt="" align="right" src="https://badges.pufler.dev/visits/closebox73/Leonis?style=round-square&label=&color=282C35&logo=github&logoColor=white&labelColor=#008080"/>
   </a>
 </h1>
 A Conky themes pack which I made in hopes of beautifying your desktop 
@@ -38,10 +38,13 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 -----------------------------------------------------
 
 ## Note :
-- syntax configuration of this theme for conky version 1.10.8 or newer
+- syntax configuration of this theme for conky version 1.10.8 or newer  ( but i prefer to use 1.10.8 version )
 - the default folder for this theme is in ~/.config/conky if it doesn't exist please create one
-- The music player I use is `mpd`
+- The music player I used was `mpd`
+- If the network speed doesn't work, try changing the network interface according to yours, the way to check is as follows
+	![](/Asset/Wlan.png)
 - I currently use Openbox, sometimes for other DE requires a slightly different setting
+	if you know how to set it on another DE (if an error occurs) please let me know and I will post it here 
 - All fonts i get from:
 	 - [Dafont](https://www.dafont.com)
 	 - [Google Fonts](https://fonts.google.com) 
@@ -61,6 +64,7 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 - For weather theme you must have API KEY and city id ( you can get it [Here](https://openweathermap.org) and fill weather.sh in scripts folder
 - Execute `start.sh`
 - If you use conky-manager2, just check the theme to be installed
+	![](/Asset/CM2.png)
 - Done
 
 ## Last
@@ -68,3 +72,5 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 	- KWGT widget for Android
 	- ZOOPER widget
 	- RAINMETER 
+
+<p align="center"><a href="https://github.com/closebox73/Taurus/blob/master/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=rounded-square&label=License&message=MIT-License&logoColor=white&logo=github&colorA=282C35&colorB=008080"/></a></p>
