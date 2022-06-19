@@ -11,7 +11,8 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 
 #### [Pleione](/Pleione) theme
 
-![](/Pleione/preview.png)
+![](/Asset/pleione.png)
+- Now only available at Pling.com [Link](https://www.pling.com/p/1832702/)
 - Wallpaper [Here](https://unsplash.com/photos/iJWxOxFggpI)
 - Change orange letters by changing color1 value in Pleione.conf
 #### [Asterope](/Asterope) theme
