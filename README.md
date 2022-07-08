@@ -1,14 +1,16 @@
 ![greetings](/Asset/Taurus.png)
-<!-- BADGES -->
-<h1>
-  <a href="#--------">
-    <img alt="" align="right" src="https://badges.pufler.dev/visits/closebox73/Taurus?style=round-square&label=&color=282C35&logo=github&logoColor=white&labelColor=008080"/>
-  </a>
-</h1>
+
+![](https://api.visitorbadge.io/api/VisitorHit?user=closebox73&repo=Taurus&countColor=%23008080)
+
 A Conky themes pack which I made in hopes of beautifying your desktop 
 
-## Showcase :
+## :cyclone: Showcase :
+### :rocket: New theme !!!! :rocket:
+#### [Taygeta](/Taygeta) theme
 
+![](/Taygeta/preview.png)
+- You can download this theme separately [Here](https://www.pling.com/p/1849970/)
+----------------------------------------------------------------
 #### [Pleione](/Pleione) theme
 
 ![](/Asset/pleione.png)
@@ -18,7 +20,6 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 #### [Asterope](/Asterope) theme
 
 ![](/Asterope/preview.png)
-- in this theme i use audacious as music player
 #### [Atlas](/Atlas) theme
 
 ![](/Atlas/preview.png)
@@ -66,6 +67,7 @@ or the easiest way is to download my theme on [Pling.com](https://www.pling.com/
 	 - [Anton](https://fonts.google.com/specimen/Anton)
 	 - [Jost](https://fonts.google.com/specimen/Jost)
 	 - [Rubik](https://fonts.google.com/specimen/Rubik)
+	 - [Dosis](https://fonts.google.com/specimen/Dosis)
 
 ## :cyclone: Requirements :
 - Conky version 1.10.8 or newer ( open this  [Link](https://github.com/brndnmtthws/conky) for instalation )
