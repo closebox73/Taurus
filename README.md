@@ -96,13 +96,12 @@ one of them are the following people:
 - [Linuxscoop](https://github.com/linuxscoop/)
 
 ## :cyclone: Last
-- these themes are inspired by
+#### these themes are inspired by
 	- KWGT widget for Android
 	- ZOOPER widget
 	- RAINMETER
 	
-- Credits
+#### Credits
 	- Mini Clock Lua by easysid & Etles_Team
-	- 
 
 <p align="center"><a href="https://github.com/closebox73/Taurus/blob/master/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=rounded-square&label=License&message=MIT-License&logoColor=white&logo=github&colorA=282C35&colorB=008080"/></a></p>
