@@ -6,10 +6,10 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 
 ## :cyclone: Showcase :
 ### :rocket: New theme !!!! :rocket:
-#### [Taygeta](/Taygeta) theme
+#### [Aldebaran](/Aldebaran) theme
 
-![](/Taygeta/preview.png)
-- You can download this theme separately [Here](https://www.pling.com/p/1849970/)
+![](/Aldebaran/preview.png)
+- Wallpaper [Here](https://unsplash.com/photos/arwTpnIUHdM)
 ----------------------------------------------------------------
 #### [Pleione](/Pleione) theme
 
@@ -30,6 +30,10 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 
 ![](/Electra/preview.png)
 - Wallpaper [Here](https://unsplash.com/photos/dMeEJRE18VI)
+#### [Taygeta](/Taygeta) theme
+
+![](/Taygeta/preview.png)
+- You can download this theme separately [Here](https://www.pling.com/p/1849970/)
 #### [Maia](/Maia) theme
 
 ![](/Maia/preview.png)
@@ -94,6 +98,7 @@ one of them are the following people:
 - [G Nussbaum](https://github.com/gnussbaum67)
 - [Yittri](https://github.com/yittri)
 - [Linuxscoop](https://github.com/linuxscoop/)
+- [Ilham Adiputra](https://github.com/ilham25/)
 
 ## :cyclone: Last
 #### these themes are inspired by
