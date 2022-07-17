@@ -10,6 +10,10 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 
 ![](/Aldebaran/preview.png)
 - Wallpaper [Here](https://unsplash.com/photos/arwTpnIUHdM)
+#### [Merope](/Merope) theme
+
+![](/Merope/preview.png)
+- Wallpaper [Here](https://www.pling.com/p/1458908)
 ----------------------------------------------------------------
 #### [Pleione](/Pleione) theme
 
@@ -108,5 +112,7 @@ one of them are the following people:
 	
 #### Credits
 	- Mini Clock Lua by easysid & Etles_Team
+	- Bargraph Lua by wlourf
+	- Rings meter Lua by londonali1010
 
 <p align="center"><a href="https://github.com/closebox73/Taurus/blob/master/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=rounded-square&label=License&message=MIT-License&logoColor=white&logo=github&colorA=282C35&colorB=008080"/></a></p>
