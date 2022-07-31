@@ -103,6 +103,7 @@ one of them are the following people:
 - [Yittri](https://github.com/yittri)
 - [Linuxscoop](https://github.com/linuxscoop/)
 - [Ilham Adiputra](https://github.com/ilham25/)
+- Jose Arivar Lira Jr
 
 ## :cyclone: Last
 #### these themes are inspired by
